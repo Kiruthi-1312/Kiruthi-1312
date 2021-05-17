@@ -5,15 +5,13 @@
 </div>
 
 
-## About Me📨
-
 const **Kiruthika** = {
 
 " 🔰Currently Learning " : " ⚛️React ",
 
 " 💬Ask me About " : " JavaScript ",
 
-" 📫 Reach me in"  : " [Linkedin](https://www.linkedin.com/in/kiruthika-s-67385a178/) | [Mail](kiruthikankl13@gmail.com) "
+" 📫 Reach me here"  : " [Linkedin](https://www.linkedin.com/in/kiruthika-s-67385a178/) | [Mail](kiruthikankl13@gmail.com) "
 
 " 💻Currently Working " : " Personal Projects "
 
@@ -25,16 +23,20 @@ const **Kiruthika** = {
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=Java&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/cpp-informational?style=flat&logo=c&logoColor=white&color=blue)
-![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html&logoColor=white&color=blue)
-![](https://img.shields.io/badge/CSS-informational?style=flat&logo=CSS&logoColor=white&color=blue)
+![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=blue)
+
+![](https://img.shields.io/badge/CSS-informational?style=flat&logo=CSS3&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=blue)
+
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=Linux&logoColor=white&color=blue)
-![](https://img.shields.io/badge/VsCode-informational?style=flat&logo=vscode&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Sublime-informational?style=flat&logo=sublime&logoColor=white&color=blue)
+
+![](https://img.shields.io/badge/VsCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Sublime-informational?style=flat&logo=Sublime&logoColor=white&color=blue)
 
 
 ## Github Stats📈
