@@ -1,7 +1,7 @@
 <div align="center">
   <h2> Hello World!  👋  I'm a</h2>
   
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cursive&color=61C3AB&center=true&vCenter=true&lines=Front+End+Developer;Problem+Solver;Aspiring+MERN+Stack+Developer;JavaScript+Enthusiast)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Girassol&color=61C3AB&center=true&vCenter=true&lines=Front+End+Developer;Problem+Solver;Aspiring+MERN+Stack+Developer;JavaScript+Enthusiast)](https://git.io/typing-svg)
 </div>
 
 
