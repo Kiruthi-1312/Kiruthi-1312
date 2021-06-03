@@ -7,7 +7,7 @@
 
 const **Kiruthika** = {
 
-" 🔰Currently Learning " : " ⚛️React ",
+" 🔰Currently Learning " : " 🅰️Angular ",
 
 " 💬Ask me About " : " JavaScript ",
 
