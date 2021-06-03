@@ -32,9 +32,7 @@ const **Kiruthika** = {
 
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=white&color=blue)
-<!-- ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=blue) -->
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=Linux&logoColor=white&color=blue)
-
 ![](https://img.shields.io/badge/VsCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
 <!-- ![](https://img.shields.io/badge/Sublime-informational?style=flat&logo=Sublime&logoColor=white&color=blue) -->
 
