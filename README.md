@@ -7,13 +7,11 @@
 
 const **Kiruthika** = {
 
-" 🔰Currently Learning " : " 🅰️Angular ",
+" 🔰Currently Learning " : "React Js ",
 
 " 💬Ask me About " : " JavaScript ",
 
 " 📫 Reach me here"  : " [Linkedin](https://www.linkedin.com/in/kiruthika-s-67385a178/) | [Mail](kiruthikankl13@gmail.com) "
-
-" 💻Currently Working " : " Personal Projects "
 
 };
 
